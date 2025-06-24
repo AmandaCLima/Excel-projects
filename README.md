@@ -14,6 +14,9 @@ This project showcases a series of Excel-based data analytics exercises using a 
   - Median salaries
   - Number of job listings per role and region
   - The best job platform
+ 
+  ![image](https://github.com/user-attachments/assets/f274bffe-56f5-4331-b315-1bfc708140d9)
+
 
 ### 2. Skill & Salary Analysis 
 
@@ -21,6 +24,9 @@ This project showcases a series of Excel-based data analytics exercises using a 
 - Includes **median salary comparisons** by:
   - Country
   - Job title
+ 
+    ![image](https://github.com/user-attachments/assets/a9ec07e7-6be6-4501-94a9-2551141514bb)
+
 
 ## 📁 Tools Used
 
